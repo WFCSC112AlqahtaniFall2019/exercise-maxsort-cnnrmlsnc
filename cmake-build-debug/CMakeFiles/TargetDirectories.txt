@@ -1,0 +1,3 @@
+C:/Users/conma/CLionProjects/exercise-maxsort-cnnrmlsnc/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/conma/CLionProjects/exercise-maxsort-cnnrmlsnc/cmake-build-debug/CMakeFiles/MaxSort.dir
+C:/Users/conma/CLionProjects/exercise-maxsort-cnnrmlsnc/cmake-build-debug/CMakeFiles/edit_cache.dir
